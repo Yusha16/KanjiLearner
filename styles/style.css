@@ -1,0 +1,33 @@
+body {
+    background-color: #8BE796;
+}
+
+h1 a {
+    color: #E78BDC;
+    font-weight: bold;
+    font-size: 72px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #E78BDC;
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+}
+
+nav {
+    background-color: #8bc9e3;
+}
+
+nav ul li {
+    padding: 10px;
+}
+
+footer p {
+    color: black;
+}

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mashape/unirest-php": "^3.0",
+        "google/cloud-vision": "^1.0"
+    }
+}

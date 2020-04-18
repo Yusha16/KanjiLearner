@@ -1,0 +1,22 @@
+.error {
+    color: red;
+}
+
+.resultTable {
+    border: 8px solid #E78BDC;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.resultHeader {
+    background-color: #E78BDC;
+    font-weight: bold;
+}
+
+.resultBody {
+    background-color: white;
+}
+
+.resultBody:nth-child(even) {
+    background: lightgrey;
+}
